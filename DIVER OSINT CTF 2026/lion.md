@@ -57,7 +57,7 @@ So it was back to Google Street View with me. I looked more closely at the stree
 <img width="1736" height="1248" alt="image" src="https://github.com/user-attachments/assets/7d9212e4-376c-4b2b-bd6c-afb11002ace8" />
 
 I'd been here before, but I'd convinced myself the building looked different. And it lacked that left-pointing red arrow I'd been hunting for so diligently. But that yellow turn line persisted — and hey, it couldn't hurt to try. I zoomed in on the advertisement for "Offices To Let":
-<img width="1462" height="728" alt="image" src="https://github.com/user-attachments/assets/46f1df20-6b14-413f-9e17-b6e2c3c7f426" />
+<img width="1444" height="722" alt="image" src="https://github.com/user-attachments/assets/701e664c-3397-4224-a532-2c9d11240773" />
 
 Censorship courtesy of me. I punched in that phone number and lo, the challenge was solved. 
 
