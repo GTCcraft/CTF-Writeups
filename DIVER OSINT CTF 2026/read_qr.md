@@ -7,6 +7,7 @@ Simply scanning the QR code with a phone camera will strip off the end of the UR
 "Uh," I said, vaguely to my teammates, mostly to myself, "Can I just... scan it?"
 
 I could. It took me here:
+
 <img width="796" height="1424" alt="image" src="https://github.com/user-attachments/assets/5cd5aa17-6a43-4039-bc95-75f0a1bf53ba" />
 
 Well, it couldn't be that easy. It was at this point that I checked the CTF's end time and realized I had 14 minutes to solve this challenge. Suddenly feeling like that guy from the high cortisol meme, I fired off this ham-fisted prompt to Gemini:
@@ -33,6 +34,7 @@ And then run to Google for instructions:
 <img width="1420" height="540" alt="image" src="https://github.com/user-attachments/assets/d42f7e9a-7c87-4020-b8b9-355c4496c272" />
 
 I first select a square containing the QR code, then invert the selection to delete everything else in the picture. Then I do as instructed above, dragging the transform handles around until I get... something. 
+
 <img width="406" height="610" alt="image" src="https://github.com/user-attachments/assets/80dd408d-bf3c-4dbf-a147-897c0a4e03a9" />
 
 I'm not altogether convinced that CyberChef will accept this thing, freakishly tall and slanted, the corners shaved into transparency. But I load it in, and lo:
