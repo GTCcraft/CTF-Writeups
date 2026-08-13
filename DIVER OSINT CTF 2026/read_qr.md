@@ -26,7 +26,9 @@ I upload the image of the QR code, and...
 Hmm. Not ideal. I turn to Gemini's second recommendation, CyberChef and its "Parse QR Code" function. In goes the image...
 <img width="1232" height="980" alt="image" src="https://github.com/user-attachments/assets/bf30f942-5ab1-4482-96bb-ed29d46ee6f8" />
 
-Well, alright. I begin to suspect the perspective skew in the picture is tripping up these QR code processors. With 8 minutes to go, I draw on my illustrious history as a digital artist and remember Photopea's perspective transform tool. (Photopea, for those lacking ball knowledge, is basically Photoshop but free in your browser, ideal for slopping together stupid recreations of scenes from your ongoing D&D campaign. Or, you know, various other image editing applications.) I drop the image in:
+Well, alright. I begin to suspect the perspective skew in the picture is tripping up these QR code processors. With 8 minutes to go, I draw on my illustrious history as a digital artist and remember Photopea's perspective transform tool. (Photopea, for those lacking ball knowledge, is basically Photoshop but free in your browser, ideal for slopping together comically bad recreations of scenes from your ongoing D&D campaign. Or, you know, any other image editing applications.) 
+
+I drop the image in:
 
 <img width="2292" height="1474" alt="image" src="https://github.com/user-attachments/assets/df4aba6d-3016-4eba-82f8-50b68aad3395" />
 
@@ -40,7 +42,7 @@ I first select a square containing the QR code, then invert the selection to del
 I'm not altogether convinced that CyberChef will accept this thing, freakishly tall and slanted, the corners shaved into transparency. But I load it in, and lo:
 <img width="1418" height="1058" alt="image" src="https://github.com/user-attachments/assets/af68aac5-ee22-458c-9e51-b07a745d4988" />
 
-The URL is revealed. I grab it for the flag and plug it into the challenge, which flashes green acceptance. Only then do I double back and read the results of the prompt I'd hammered out to Gemini in a panic:
+The URL is revealed. I grab it for the flag and plug it into the challenge, which flashes green acceptance. Only then do I double back and read the results of the prompt I'd hammered out to Gemini:
 > neither cyberchef nor the other website is able to detect the QR code. should I edit the image somehow 
 
 Gemini:
@@ -48,4 +50,4 @@ Gemini:
 
 <img width="1506" height="980" alt="image" src="https://github.com/user-attachments/assets/37b48c3e-338e-4c19-aa6b-04a6eecb8b94" />
 
-Yeah, that looks a lot better. You live and you learn. 
+...Yeah, that looks a lot better. You live and you learn. 
