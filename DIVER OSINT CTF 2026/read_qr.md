@@ -26,7 +26,7 @@ I upload the image of the QR code, and...
 Hmm. Not ideal. I turn to Gemini's second recommendation, CyberChef and its "Parse QR Code" function. In goes the image...
 <img width="1232" height="980" alt="image" src="https://github.com/user-attachments/assets/bf30f942-5ab1-4482-96bb-ed29d46ee6f8" />
 
-Well, alright. I begin to suspect the perspective skew in the picture is tripping up these QR code processors. With 8 minutes to go, I draw on my illustrious history as a digital artist and remember Photopea's perspective transform tool. (Photopea, for those lacking ball knowledge, is basically Photoshop but free in your browser, ideal for slopping together comically bad recreations of scenes from your ongoing D&D campaign. Or, you know, any other image editing applications.) 
+Well, alright. I begin to suspect the perspective skew in the picture is tripping up these QR code processors. With 8 minutes to go, I draw on my illustrious history as a digital artist and remember Photopea's perspective transform tool. (Photopea, for those lacking ball knowledge, is basically Photoshop but free in your browser, ideal for slopping together comedic recreations of scenes from your ongoing D&D campaign. Or, you know, any other image editing applications.) 
 
 I drop the image in:
 
