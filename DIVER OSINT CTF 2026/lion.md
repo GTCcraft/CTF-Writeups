@@ -1,4 +1,4 @@
-# These Streets Have Changed: lion
+# Street Paint Is Forever: lion
 > In the photo attached to this article, the building behind the lion walking down the street features a large advertisement with a phone number. 
 > Answer the phone number shown on this advertisement without hyphens or spaces.
 
@@ -12,7 +12,7 @@ I throw the article into Gemini for a translation. The first lines read:
 >
 > The news spread on social media, and some considered it one of the methods used by Russia to mitigate the spread of the novel coronavirus causing "COVID-19".
 
-This is, quite frankly, a hilarious concept (why were 500 lions Putin's first resort?) But the next line is of more interest to us:
+This is, quite frankly, a hilarious concept (why were 500 lions the first resort?) But the next line is of more interest to us:
 > With a simple check and by searching the "Google" browser for the publication date, the date of the photo can be verified. It was published in 2006 of a lion entering a neighborhood in South Africa.
 
 So the photo is ostensibly from South Africa, but where? None of the text in the image is legible:
@@ -60,7 +60,7 @@ So it was back to Google Street View with me. I looked more closely at the stree
 
 <img width="1344" height="1198" alt="image" src="https://github.com/user-attachments/assets/9de0db77-7039-4958-a8a7-92bdd90d9339" />
 
-Notably, I had already been here, but I'd convinced myself it was a different building --- and anyway, I'd still been looking for that accursed left-pointing red arrow. Turns out that arrow signs are temporary, but street paint is forever (pretty sure that's how that saying goes.) I zoomed in on the advertisement mounted to the building:
+Notably, I had already been here, but I'd convinced myself it was a different building --- and anyway, I'd still been looking for that accursed left-pointing red arrow. Turns out that arrow signs are temporary, but street paint is forever (that's how that saying goes, right?) I zoomed in on the advertisement mounted to the building:
 
 <img width="1444" height="722" alt="image" src="https://github.com/user-attachments/assets/701e664c-3397-4224-a532-2c9d11240773" />
 
